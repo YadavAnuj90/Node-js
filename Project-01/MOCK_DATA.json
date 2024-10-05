@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "first_name": "Nathanael",
+    "last_name": "Ismirnioglou",
+    "email": "nismirnioglou0@marketwatch.com",
+    "gender": "Male",
+    "job_title": "Account Representative III"
+  },
+  {
+    "id": 2,
+    "first_name": "Karlens",
+    "last_name": "Ragborne",
+    "email": "kragborne1@miitbeian.gov.cn",
+    "gender": "Male",
+    "job_title": "Software Test Engineer I"
+  },
+  {
+    "id": 3,
+    "first_name": "Nickola",
+    "last_name": "Leavesley",
+    "email": "nleavesley2@naver.com",
+    "gender": "Male",
+    "job_title": "Payment Adjustment Coordinator"
+  },
+  {
+    "id": 4,
+    "first_name": "Aldrich",
+    "last_name": "Lambie",
+    "email": "alambie3@ihg.com",
+    "gender": "Male",
+    "job_title": "Sales Associate"
+  },
+  {
+    "id": 5,
+    "first_name": "Stern",
+    "last_name": "Broomer",
+    "email": "sbroomer4@noaa.gov",
+    "gender": "Polygender",
+    "job_title": "Biostatistician II"
+  },
+  {
+    "id": 6,
+    "first_name": "Marisa",
+    "last_name": "Starton",
+    "email": "mstarton5@google.ru",
+    "gender": "Female",
+    "job_title": "Assistant Manager"
+  },
+  {
+    "id": 7,
+    "first_name": "Jenna",
+    "last_name": "Ballard",
+    "email": "jballard6@tuttocitta.it",
+    "gender": "Female",
+    "job_title": "Senior Editor"
+  },
+  {
+    "id": 8,
+    "first_name": "Aymer",
+    "last_name": "Berryann",
+    "email": "aberryann7@nifty.com",
+    "gender": "Male",
+    "job_title": "Research Assistant II"
+  },
+  {
+    "id": 9,
+    "first_name": "Coleen",
+    "last_name": "Spurritt",
+    "email": "cspurritt8@slideshare.net",
+    "gender": "Female",
+    "job_title": "Safety Technician III"
+  },
+  {
+    "id": 10,
+    "first_name": "Robin",
+    "last_name": "Diamond",
+    "email": "rdiamond9@sourceforge.net",
+    "gender": "Male",
+    "job_title": "Food Chemist"
+  },
+  {
+    "id": 11,
+    "first_name": "Gae",
+    "last_name": "Juckes",
+    "email": "gjuckesa@xinhuanet.com",
+    "gender": "Female",
+    "job_title": "Clinical Specialist"
+  },
+  {
+    "id": 12,
+    "first_name": "Britt",
+    "last_name": "Hastler",
+    "email": "bhastlerb@home.pl",
+    "gender": "Male",
+    "job_title": "Senior Editor"
+  }
+]
