@@ -1,0 +1,12 @@
+Request Method: GET, Request URL: /api/users
+Request Method: GET, Request URL: /api/users
+Request Method: POST, Request URL: /api/users
+Request Method: GET, Request URL: /api/users/67b98b118fb3cef323a85ee2
+Request Method: GET, Request URL: /api/users/67b9c512a97d2f19c47971d9
+Request Method: DELETE, Request URL: /api/users/67b98b118fb3cef323a85ee2
+Request Method: POST, Request URL: /api/users
+Request Method: POST, Request URL: /api/users
+Request Method: GET, Request URL: /api/users/67b9c59ce55250afdb2c241c
+Request Method: GET, Request URL: /api/users
+Request Method: POST, Request URL: /api/users
+Request Method: GET, Request URL: /api/users
